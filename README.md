@@ -9,5 +9,5 @@
 - ECR setup in AWS
 - Build and push docker Image
 - Need to Deploy ECR
-- 
+- Todo application using Flask
   
